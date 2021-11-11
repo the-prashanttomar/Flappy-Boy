@@ -1,0 +1,10 @@
+#scream {
+    display: none;
+  }
+
+
+
+#background{
+      background-image: url(background.jpg);
+      background-repeat: no-repeat;
+}
